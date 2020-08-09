@@ -108,7 +108,7 @@
 #blog
 {
 	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), 
-	url(images/image4.jpg);
+	url('images/image4.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #efefef !important;
@@ -261,7 +261,7 @@ h1::after
 #support
 {
 	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), 
-	url(images/image3.jpg);
+	url('images/image3.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #fff;
